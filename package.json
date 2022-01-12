@@ -1,6 +1,6 @@
 {
   "name": "transfer-rmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Number case conversion(数字转人民币大写)",
   "main": "index.js",
   "directories": {
