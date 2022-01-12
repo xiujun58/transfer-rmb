@@ -1,4 +1,4 @@
-# transfer-rmb.js
+# transfer-rmb
 Number case conversion(数字转人民币大写)
 
 ## Install
