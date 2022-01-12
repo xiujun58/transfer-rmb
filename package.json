@@ -1,0 +1,25 @@
+{
+  "name": "transfer-rmb",
+  "version": "1.0.0",
+  "description": "Number case conversion(数字转人民币大写)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiujun58/transfer-rmb.git"
+  },
+  "keywords": [
+      "transfer-rmb"
+  ],
+  "author": "xiujun58",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiujun58/transfer-rmb/issues"
+  },
+  "homepage": "https://github.com/xiujun58/transfer-rmb#readme"
+}
